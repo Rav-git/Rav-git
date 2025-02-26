@@ -1,4 +1,5 @@
 # Hi there 👋, I'm Ravi
+<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 
 🚀 **Aspiring Software Developer and Machine Learning Enthusiast**  
 💻 Passionate about coding, problem-solving, and building impactful projects.  
