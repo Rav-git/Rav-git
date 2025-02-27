@@ -9,7 +9,7 @@
 ---
 
 ### 🔧 **Skills and Technologies**
-- **Programming Languages:**  C++, Java, Python,JavaScript 
+- **Programming Languages:**  C++, Java, Python 
 - **Frameworks/Libraries:** ReactJS, MongoDB, ExpressJS, NodeJS, Streamlit, spaCy, scikit-learn, NLTK, PyPDF2, pandas, NumPy
 - **Tools/Platforms:** MongoDB, ExpressJS, NodeJS  
 - **Other Skills:** Data Structures & Algorithms, SQL  
